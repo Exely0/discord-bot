@@ -1,0 +1,2 @@
+# cagnotte-bot
+discord bot
